@@ -2,8 +2,10 @@
 
 Бот необходим для добавления источников цен в общую базу данных.<br>
 Пример данных:<br>
+![image](https://github.com/user-attachments/assets/760a1439-36fe-4d89-9a30-88ab7be8346f)
 
-Пример вывода сообщеня:<br>
+Пример вывода сообщения:<br>
+![image](https://github.com/user-attachments/assets/1a969a0e-1535-4c57-876b-7c8f97e2fc56)
 
 ---
 Развернуть бота локально:<br>
